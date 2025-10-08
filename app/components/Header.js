@@ -77,12 +77,12 @@ const Header = ({ currentCategory = 'top' }) => {
               Home
             </Link>
             <Link 
-              href="https://timesofindia.indiatimes.com" 
+              href="https://linktr.ee/isatyamshivam" 
               target="_blank"
               onClick={() => setMobileMenuOpen(false)}
               className="block text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 px-3 py-2 rounded-md font-medium"
             >
-              Official Site
+              Developer's Profile
             </Link>
             <div className="border-t dark:border-gray-700 my-2"></div>
             <p className="px-3 text-xs font-medium text-gray-500 uppercase tracking-wider">Categories</p>
