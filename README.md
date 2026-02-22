@@ -1,4 +1,4 @@
-# <img src="public/newstonic-logo.png" alt="Newstonic" width="40"/> Newssy - Real-Time News Aggregator
+# <img src="public/newstonic-logo.png" alt="Newstonic" width="40"/> Newstonic - Real-Time News Aggregator
 
 **Newstonic** is a modern, lightweight news web application built using **Next.js**. It provides the latest news articles across various categories, with a clean UI and optimized performance using server-side rendering and efficient font loading.
 
