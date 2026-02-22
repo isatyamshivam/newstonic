@@ -55,4 +55,8 @@ yarn dev
 - Geist Font by Vercel – used via next/font
 - Special thanks to the open-source community for ongoing inspiration
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ---
