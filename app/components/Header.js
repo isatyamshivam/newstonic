@@ -25,14 +25,14 @@ const Header = ({ currentCategory = 'top' }) => {
         <Link href="/" className="flex items-center space-x-3 group">
           <div className="relative h-10 w-10 transition-transform duration-300 group-hover:scale-110">
             <Image 
-              src="/newssy_logo.svg" 
-              alt="Newsyy"
+              src="/newstonic-logo.svg" 
+              alt="Newstonic"
               fill
               className="object-contain rounded-md" 
             />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">Newsyy</h1>
+            <h1 className="text-xl font-bold tracking-tight group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">Newstonic</h1>
             <p className="text-xs text-gray-500 dark:text-gray-400">Latest News & Headlines</p>
           </div>
         </Link>

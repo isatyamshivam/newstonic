@@ -1,8 +1,8 @@
-# <img src="public/newssy_logo.svg" alt="Newssy" width="40"/> Newssy - Real-Time News Aggregator
+# <img src="public/newstonic-logo.png" alt="Newstonic" width="40"/> Newssy - Real-Time News Aggregator
 
-**Newssy** is a modern, lightweight news web application built using **Next.js**. It provides the latest news articles across various categories, with a clean UI and optimized performance using server-side rendering and efficient font loading.
+**Newstonic** is a modern, lightweight news web application built using **Next.js**. It provides the latest news articles across various categories, with a clean UI and optimized performance using server-side rendering and efficient font loading.
 
-[🔗 Visit Site](https://newssy-isatyamshivam.vercel.app/)
+[🔗 Visit Site](https://newstonic.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/isatyamshivam/newssy.git
+git clone https://github.com/isatyamshivam/newstonic.git
 cd newssy
 
 # 2. Install dependencies
